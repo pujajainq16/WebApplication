@@ -3,7 +3,7 @@
 
     Function Index() As ActionResult
         ViewData("Title") = "Home Page"
-
+        //added test comment
         Return View()
     End Function
 End Class
